@@ -23,5 +23,5 @@ func main() {
 		panic(err)
 	}
 	s := g.String()
-	fmt.Println(s)
+	fmt.Println(s)	
 }
