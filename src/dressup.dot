@@ -1,0 +1,9 @@
+digraph G {
+	bgcolor="#343434";
+	Hello->World[ color=white ];
+	Beautiful->World[ color=white ];
+	Beautiful [ color=7, colorscheme=rdylgn11, fillcolor=11, fontcolor=6, fontname="Migu 1M", shape=doublecircle, style="solid,filled" ];
+	Hello [ color=7, colorscheme=rdylgn11, fillcolor=11, fontcolor=6, fontname="Migu 1M", shape=doublecircle, style="solid,filled" ];
+	World [ color=7, colorscheme=rdylgn11, fillcolor=11, fontcolor=6, fontname="Migu 1M", shape=doublecircle, style="solid,filled" ];
+
+}
