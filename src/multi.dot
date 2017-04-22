@@ -1,0 +1,8 @@
+digraph G {
+	Hello->World;
+	Beautiful->World;
+	Beautiful;
+	Hello;
+	World;
+
+}
