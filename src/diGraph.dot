@@ -1,0 +1,19 @@
+digraph G {
+	bgcolor="#343434";
+	layout=neato;
+	a->b[ color=white ];
+	a->d[ color=white ];
+	b->c[ color=white ];
+	b->e[ color=white ];
+	d->g[ color=white ];
+	e->f[ color=white ];
+	e->a[ color=white ];
+	a [ color=7, colorscheme=rdylgn11, fillcolor=11, fontcolor=6, fontname="Migu 1M", shape=doublecircle, style="solid,filled" ];
+	b [ color=7, colorscheme=rdylgn11, fillcolor=11, fontcolor=6, fontname="Migu 1M", shape=doublecircle, style="solid,filled" ];
+	c [ color=7, colorscheme=rdylgn11, fillcolor=11, fontcolor=6, fontname="Migu 1M", shape=doublecircle, style="solid,filled" ];
+	d [ color=7, colorscheme=rdylgn11, fillcolor=11, fontcolor=6, fontname="Migu 1M", shape=doublecircle, style="solid,filled" ];
+	e [ color=7, colorscheme=rdylgn11, fillcolor=11, fontcolor=6, fontname="Migu 1M", shape=doublecircle, style="solid,filled" ];
+	f [ color=7, colorscheme=rdylgn11, fillcolor=11, fontcolor=6, fontname="Migu 1M", shape=doublecircle, style="solid,filled" ];
+	g [ color=7, colorscheme=rdylgn11, fillcolor=11, fontcolor=6, fontname="Migu 1M", shape=doublecircle, style="solid,filled" ];
+
+}
